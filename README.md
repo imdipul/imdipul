@@ -55,6 +55,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdipul&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="imdipul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdipul&show_icons=true&locale=en&bg_color=30,4078c0,904e95&title_color=fff&text_color=fff" alt="imdipul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdipul&show_icons=true&locale=en&bg_color=30,0000FF,800000&title_color=fff&text_color=fff" alt="imdipul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdipul&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="imdipul" /></p>
