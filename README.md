@@ -15,7 +15,7 @@
 
 - 👨‍💻 My project [https://github.com/MORPHINE-CRYPTO](https://github.com/MORPHINE-CRYPTO)
 
-- 📝 I regularly write articles on [Crypto Currencies](Crypto Currencies)
+- 📝 I regularly write articles on Crypto Currencies
 
 - 💬 Ask me about **Blockchain Coding and other stuffs**
 
