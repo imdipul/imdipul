@@ -1,4 +1,4 @@
-## Hi , I am dipul <img src="https://cdn.jsdelivr.net/gh/RealKoolisw/image@main/assets/366AC744-A6F9-4653-B771-C715645A0C1C.gif" width="30px">
+## Heay there , I am dipul <img src="https://cdn.jsdelivr.net/gh/RealKoolisw/image@main/assets/366AC744-A6F9-4653-B771-C715645A0C1C.gif" width="30px">
 <h3 align="center">A passionate blockchain developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdipul" alt="imdipul" /></a> </p>
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Blockchain Coding and other stuffs**
 
-- 📫 Reach me **ddipulpoudel@gmail.com**
+- 📫 Reach me **hello@dipul.cf**
 
 - ⚡ Fun fact **I spend lots of time by listening Music**
 
